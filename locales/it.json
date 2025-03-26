@@ -1,0 +1,38 @@
+{
+  "title": {
+    "all_users": "Tutti gli Utenti",
+    "email": "Email",
+    "role": "Ruolo",
+    "status": "Stato",
+    "active": "Attivo",
+    "inactive": "Inattivo",
+    "description": "Descrizione",
+    "backToUsers": "Torna agli Utenti"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john@example.com",
+      "role": "Amministratore",
+      "status": true,
+      "description": "Amministratore di sistema senior con 5 anni di esperienza"
+    },
+    {
+      "id": 2,
+      "name": "Emma Wilson",
+      "email": "emma@example.com",
+      "role": "Utente",
+      "status": true,
+      "description": "Account utente regolare per operazioni quotidiane"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "email": "michael@example.com",
+      "role": "Manager",
+      "status": false,
+      "description": "Manager del dipartimento vendite"
+    }
+  ]
+}
