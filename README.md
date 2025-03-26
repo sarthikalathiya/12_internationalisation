@@ -20,7 +20,7 @@ A Node.js application demonstrating internationalization (i18n) with multiple la
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sarthikalathiya/12_internationalisation
 cd 12_internationalisation
 ```
 
